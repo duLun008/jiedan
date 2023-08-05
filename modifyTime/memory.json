@@ -1,0 +1,40 @@
+{
+  "modify": {
+    "文件创建时间": {
+      "valid": false,
+      "num": "1",
+      "unit": "天"
+    },
+    "文件修改时间": {
+      "valid": true,
+      "num": "10",
+      "unit": "时"
+    },
+    "文件访问时间": {
+      "valid": true,
+      "num": "12",
+      "unit": "分"
+    },
+    "文件夹创建时间": {
+      "valid": true,
+      "num": "3",
+      "unit": "天"
+    },
+    "文件夹修改时间": {
+      "valid": true,
+      "num": "3",
+      "unit": "天"
+    },
+    "文件夹访问时间": {
+      "valid": true,
+      "num": "3",
+      "unit": "天"
+    },
+    "使用总输入框": {
+      "valid": true,
+      "num": "1",
+      "unit": "天"
+    }
+  },
+  "mode": -1
+}

@@ -1,0 +1,26 @@
+altgraph==0.17.3
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+cx-Freeze==6.13.2
+cx-Logging==3.1.0
+importlib-metadata==6.7.0
+lief==0.12.3
+numpy==1.21.6
+opencv-python==4.8.0.74
+packaging==23.1
+pandas==1.1.5
+pefile==2023.2.7
+pygame==2.5.0
+pyinstaller==5.13.0
+pyinstaller-hooks-contrib==2023.5
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
+python-dateutil==2.8.2
+pytz==2023.3
+pywin32==306
+pywin32-ctypes==0.2.2
+six==1.16.0
+torch==1.13.1
+typing_extensions==4.7.1
+wincertstore==0.2
+zipp==3.15.0
